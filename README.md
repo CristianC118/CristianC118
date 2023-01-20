@@ -1,9 +1,11 @@
+![Python-Programming-Language](https://user-images.githubusercontent.com/98475802/213811810-3b4c3df8-0298-4a0a-95b8-680486906347.png)
+
 <h1 align="center">Hola 👋, Soy Cristian Cristaldo</h1>
 <h3 align="center">Data Analyst - BI 📊 (Futuro Programador en IA 💻🦾)</h3>
 
 <p align="left"> <a href="https://twitter.com/cristian_c118" target="blank"><img src="https://img.shields.io/twitter/follow/cristian_c118?logo=twitter&style=for-the-badge" alt="cristian_c118" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en crear un modelo de Data BI para medianas empresas **"Incluso las Medianas Empresas trabajan con Datos"**
+- 🔭 Actualmente estoy trabajando en crear un modelo de Data BI para medianas empresas **"Incluso las Pequeñas y Medianas Empresas trabajan con Datos"**
 
 - 🌱 Data Science con Python **https://www.udemy.com/course/ciencia-de-datos-con-python/**
 

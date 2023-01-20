@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/cristian_c118" target="blank"><img src="https://img.shields.io/twitter/follow/cristian_c118?logo=twitter&style=for-the-badge" alt="cristian_c118" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en crear un modelo de Data BI para medianas empresas **Incluso las Medianas Empresas trabajan con Datos.**
+- 🔭 Actualmente estoy trabajando en crear un modelo de Data BI para medianas empresas **"Incluso las Medianas Empresas trabajan con Datos"**
 
 - 🌱 Data Science con Python **https://www.udemy.com/course/ciencia-de-datos-con-python/**
 
-- 👨‍💻 Todos mis proyectos están disponibles Aquí ⚓
+- 👨‍💻 Todos mis proyectos están disponibles [Aquí ⚓](Aquí ⚓)
 
 - 📝 Subo contenido en Twitter [twitter.com/cristian_c118](twitter.com/cristian_c118)
 
@@ -20,6 +20,7 @@
 <a href="https://twitter.com/cristian_c118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cristian_c118" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cristian-cristaldo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian-cristaldo" height="30" width="40" /></a>
 <a href="https://instagram.com/cristian_cristaldo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristian_cristaldo_" height="30" width="40" /></a>
+<a href="https://discord.gg/Cristian_C118#5671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cristian_C118#5671" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

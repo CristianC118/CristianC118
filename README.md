@@ -7,7 +7,7 @@
 
 - 🌱 Data Science con Python **https://www.udemy.com/course/ciencia-de-datos-con-python/**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [Aquí ⚓](Aquí ⚓)
+- 👨‍💻 Todos mis proyectos están disponibles en (Aquí ⚓)
 
 - 📝 Subo contenido en Twitter [twitter.com/cristian_c118](twitter.com/cristian_c118)
 
